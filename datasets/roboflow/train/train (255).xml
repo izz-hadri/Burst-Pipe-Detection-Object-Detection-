@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>burst_augment_16_blur_jpg.rf.d26393b4791d4a8590b931dbbab5fc7a.jpg</filename>
+	<path>burst_augment_16_blur_jpg.rf.d26393b4791d4a8590b931dbbab5fc7a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>burst</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>260</xmin>
+			<xmax>326</xmax>
+			<ymin>117</ymin>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>
